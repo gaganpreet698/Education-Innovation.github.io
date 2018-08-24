@@ -1,0 +1,23 @@
+.about-contain{
+	width:100%; height:50%; 
+	display:flex;
+	flex-wrap:nowrap;
+	
+}
+.about-us{
+	width:60%; height:100%;
+	margin:2px;
+	padding:3px;
+	text-align:left;
+}
+.about-us p,h3,li>p{
+	font-family:arial;
+	letter-spacing:.5px;
+	word-spacing:5px;
+	color:black;
+	margin-left:10px;
+}
+.about-video{
+	
+	width:40%; height:100%;
+}

@@ -1,0 +1,14 @@
+.card-color1{
+	border-width:2px!important;
+	border-radius:20px!important;
+	border-color:#f55c6d !important; 
+}
+.card-color2{
+	border-width:2px!important;
+	border-radius:20px!important;
+	border-color:#1eaace  !important;
+}
+
+.thumbnail >img{
+	border-radius:10px;
+}

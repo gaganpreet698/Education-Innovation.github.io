@@ -1,0 +1,26 @@
+section{
+	margin:20px;
+}
+.para-style{
+	font-family: serif;
+	letter-spacing:1px;
+	word-spacing:2px;
+	font-size:20px;
+}
+.heading-style{
+	font-family: serif;
+	text-shadow:1px 1px 2px black,0 0 25px blue,0 0 5px darkblue;
+	
+	font-weight:500;
+	word-spacing:2px;
+	letter-spacing:1px;
+	/*color:#54FF9F; */
+}
+.a-font{
+	text-decoration:none !important;
+	font-family: serif;
+	color:black;
+}
+.a-font:hover{
+	color:#42C0FB;
+}
